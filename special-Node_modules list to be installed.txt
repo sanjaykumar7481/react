@@ -1,7 +1,9 @@
 To make sure the website run successfully download these node module
 =====================================================================
 1)axios
-2)@mui library
+2)@mui library==>commands
+	npm install @mui/material @emotion/react @emotion/styled
+	npm install @mui/icons-material
 3)react redux
 4)reduxjs toolkit
-5)@mui icon package
+	npm install @reduxjs/toolkit
